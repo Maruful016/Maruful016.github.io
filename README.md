@@ -12,5 +12,6 @@ Click me to display Date and Time.</button>
 <button onclick="window.print()">print this page</button>
 <p
 <a href="https://www.facebook.com/profile.php?id=100044851013414">visit my Facebook</a></p>
+<img src="pic_trulli.jpg" alt="Trulli" width="500" height="333">
 </body>
 </html>
