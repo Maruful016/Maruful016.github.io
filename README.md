@@ -10,8 +10,7 @@ Click me to display Date and Time.</button>
 
 <p id="demo"></p>
 <button onclick="window.print()">print this page</button>
-<p
-<a href="https://www.facebook.com/profile.php?id=100044851013414">visit my Facebook</a></p>
+<a href="https://www.facebook.com/profile.php?id=100044851013414">visit my Facebook</a>
 <img src="IMG_20230629_145841.jpg" alt="Maruf" width="560" height="444">
 </body>
 </html>
